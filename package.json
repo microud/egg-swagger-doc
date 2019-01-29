@@ -11,6 +11,7 @@
     "egg-plugin"
   ],
   "dependencies": {
+    "hahaha": "^1.0.0",
     "koa-static-cache": "^5.1.2"
   },
   "devDependencies": {
